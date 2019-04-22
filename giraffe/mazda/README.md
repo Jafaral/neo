@@ -21,7 +21,7 @@ Choose between powering the Panda from the car (switch #1) or via external power
 + 1010 :  CAM CAN <=> panda CAN2, panda CAN1 <=> CAR CAN1
 + 1011 :  CAM CAN <=> panda CAN2, panda CAN1 <=> CAR CAN1, panda ignition ON
 
-With non-stock settings, you have to have the correct panda firmware that forwards msgs poerperly between CAN1 and CAN2
+With non-stock settings, you have to have the correct panda firmware that forwards msgs properly between CAN1 and CAN2
 
 The last setting is what I use with OP.
 

@@ -27,7 +27,7 @@ The last setting is what I use with OP.
 
 ### Note
 
-  If you power the panda from the car, it takes a couple of seconds to boot and have OP ready to talk to the car. By that time the car might detect that the camera is not connected (panda isn't forwarding msgs yet) and show errors. To avoid that problem, start the car in Accessory mode and turned it off right away. Do that by pressing the car's start button three times without depressing the break. With Mazda cars, this will provide power for one minute, panda only needs a couple of seconds to boot and you can see OP ready on your EON's screen. Now you are ready to rumble!
+  If you power the panda from the car, it takes a couple of seconds to boot and have OP ready to talk to the car. By that time the car might detect that the camera is not connected (panda isn't forwarding msgs yet) and you might git dashboard errors. To avoid that problem, start the car in Accessory mode and turn it off right away. Do that by pressing the car's start button three times without depressing the brake. With Mazda cars, this will provide power for one minute, panda only needs a couple of seconds to boot and you can see OP ready on your EON's screen. Now you are ready to rumble!
   
   
 Parts

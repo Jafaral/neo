@@ -39,7 +39,11 @@ WARNING WARNING WARNING! Choose between powering the Panda from the car (switch 
 
 + 1011 :  CAM CAN <=> panda CAN3, panda CAN1 <=> CAR CAN1
 
-      Note: With this setting you have to start the car's ignition, and then turn it off immediatly (without pressing on the brakes, push the start button three times). wait for OP to start and then turn the car normally. With this mode, you are guaranteed no to have any interference from stock LKAS (see comment at the bottom). 
+      Note: With this setting you have to start the car's ignition, and then turn 
+      it off immediatly (without pressing on the brakes, push the start button 
+      three times). wait for OP to start and then turn the car normally. With this
+      mode, you are guaranteed no to have any interference from stock LKAS
+      (see comment at the bottom). 
    
    With the second, I recommend flashing the panda with safety model set to Mazda. This allows you just turn on the car and go if EON is not connected. 
     
